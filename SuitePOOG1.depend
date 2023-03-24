@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1679654732 source:/home/alunos/Desktop/SuitePOOG1/src/forca.cpp
+	"forca.h"
+
+1679654919 /home/alunos/Desktop/SuitePOOG1/include/forca.h
+	<iostream>
+
+1679654732 source:/home/alunos/Desktop/SuitePOOG1/src/velha.cpp
+	"velha.h"
+
+1679654732 /home/alunos/Desktop/SuitePOOG1/include/velha.h
+	<iostream>
+
+1679655022 source:/home/alunos/Desktop/SuitePOOG1/src/senha.cpp
+	"senha.h"
+
+1679655066 /home/alunos/Desktop/SuitePOOG1/include/senha.h
+	<iostream>
+
+1679655049 source:/home/alunos/Desktop/SuitePOOG1/main.cpp
+	"forca.h"
+	"velha.h"
+	"senha.h"
+
